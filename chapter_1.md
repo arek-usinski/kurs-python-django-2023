@@ -34,6 +34,7 @@ Hello world
 ### float
 ### bool
 ### string
+### dostęp przez referrencje vs wartość
 ## Struktury danych
 ### list
 ### tuple
