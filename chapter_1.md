@@ -2,10 +2,35 @@
 [[_TOC_]]
 ## Algorytm
 ## Paradygmaty programowania
+* programowanie imperatywne
+* programowanie delkaratywne
+* programowanie funkcyjne
+* programowanie obiektowe
 ## Języki programowania
+* C/C++
+* Java
+* javascript
+* Python
+* PHP
+* Rust
+* Go
+* MATLAB
+* HTML
+* CSS
+* LaTeX
+* markdown
+* SQL
 ## RELP (hello world)
+```shell
+$ python3.10
+Python 3.10.6 (main, Nov 14 2022, 16:10:14) [GCC 11.3.0] on linux
+Type "help", "copyright", "credits" or "license" for more information.
+>>> print("Hello world")
+Hello world
+```
 ## Typy danych
 ### int
+#### operatory matematyczne (+, -, /, //, *, %)
 ### float
 ### bool
 ### string
