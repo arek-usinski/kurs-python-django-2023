@@ -1,5 +1,5 @@
 # Wstęp do programowania w Python
-__TOC__
+[[_TOC_]]
 ## Algorytm
 ## Paradygmaty programowania
 ## Języki programowania
