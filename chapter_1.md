@@ -58,6 +58,7 @@ Hello world
 ### try-except
 ### with
 ### with-as
+## list/dict comprahensions
 ## Funkcje
 ### def
 ### dekoratory
