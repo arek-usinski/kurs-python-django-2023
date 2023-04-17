@@ -1,5 +1,12 @@
-# Wstęp do programowania w Python
 [[_TOC_]]
+# Prerequisites
+## git
+## GitLab
+## markdown
+## edytor
+### vi, vim, emacs (do pracy z konsoli)
+### PyCharm, VSCode (do pracy z GUI)
+# Wstęp do programowania
 ## Algorytm
 ## Paradygmaty programowania
 * programowanie imperatywne
@@ -20,6 +27,7 @@
 * LaTeX
 * markdown
 * SQL
+# Python
 ## RELP (hello world)
 ```shell
 $ python3.10
@@ -34,12 +42,12 @@ Hello world
 ### float
 ### bool
 ### string
-### dostęp przez referrencje vs wartość
 ## Struktury danych
 ### list
 ### tuple
 ### set
 ### dict
+### dostęp przez referrencje vs wartość
 ### generatory
 #### yield
 ## Instrukcje sterujące przepływem (słowa kluczowe)
@@ -57,6 +65,7 @@ Hello world
 ### while
 ### try-except
 ### with
+#### otwieranie i czytanie plików, csv
 ### with-as
 ## list/dict comprahensions
 ## Funkcje
@@ -65,7 +74,7 @@ Hello world
 ## Klasy
 ### class
 ### dziedziczenie
-### atrybuty na różnych poziomach
+### atrybuty na różnych poziomach (klasa, instancja)
 ### metody
 #### @classmethod
 #### @property
@@ -82,3 +91,36 @@ Hello world
 #### requirements.txt
 #### flask
 #### numpy
+# Narzędzia programistyczne
+## makefile
+## git
+## .bashrc
+## docker, docker-compose
+## MailHog
+## localhost
+## ngrok
+# Bazy danych
+## SQL
+### PostgreSQL
+#### SELECT
+#### FROM
+#### JOINs (LEFT, RIGHT, OUTER, INNER)
+#### WHERE
+#### Agregaty
+##### SUM
+##### AVG
+#### GROUP BY
+#### HAVING
+#### CREATE TABLE
+#### ALTER TABLE
+#### DROP TABLE
+#### TRUNCATE
+## NoSQL
+### MongoDB
+### influxDB
+# Django -- widoki renderowane przez backend
+# Django -- rest
+## Django Rest Framework
+# Django -- GraphQL
+## graphene
+## strawberry
