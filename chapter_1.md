@@ -87,9 +87,8 @@ Hello world
 #### datetime
 #### os
 ### 3rd party
-#### pip
-#### requirements.txt
 #### flask
+#### FastAPI
 #### numpy
 # Narzędzia programistyczne
 ## makefile
@@ -99,6 +98,8 @@ Hello world
 ## MailHog
 ## localhost
 ## ngrok
+## venv
+## pip i requirements.txt
 # Bazy danych
 ## SQL
 ### PostgreSQL
