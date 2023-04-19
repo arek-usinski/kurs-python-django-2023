@@ -1,7 +1,20 @@
 [[_TOC_]]
 # Prerequisites
 ## git
-## GitLab
+### clone
+### add
+### commit
+### push (--force)
+### checkout (-b)
+### pull
+### branch
+### merge
+### rebase
+### reset
+### clean
+### diff
+### status
+## GitHub
 ## markdown
 ## edytor
 ### vi, vim, emacs (do pracy z konsoli)
