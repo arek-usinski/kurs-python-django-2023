@@ -6,9 +6,9 @@
 ### commit - wysyla finalne zmiany do repozytorium 
 ### push (--force) - push przekazywanie zmian lokalnych na repozytorium do centralnego. force wypchniecie z wymuszeniem   
 ### checkout (-b) tworzy branch i podmienia jednoczesnie. Bez "b" tworzy nowy branch, ale pozwala zostac na na obecnym. 
-### pull
+### pull - pobiera zawartosc zdalnego repozytorium i aktualizuje z lokalnym 
 ### branch
-### merge
+### merge- łaczy gałęzie commotow w jedna jednolita 
 ### rebase
 ### reset
 ### clean
