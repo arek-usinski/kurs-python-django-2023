@@ -1,6 +1,6 @@
 [[_TOC_]]
 # Prerequisites
-## git
+## git - system kontroli wersji 
 ### clone
 ### add
 ### commit
