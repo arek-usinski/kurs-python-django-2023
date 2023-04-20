@@ -4,7 +4,7 @@
 ### clone
 ### add
 ### commit - wysyla finalne zmiany do repozytorium 
-### push (--force)
+### push (--force) - push przekazywanie zmian lokalnych na repozytorium do centralnego. force wypchniecie z wymiszeniem   
 ### checkout (-b)
 ### pull
 ### branch
