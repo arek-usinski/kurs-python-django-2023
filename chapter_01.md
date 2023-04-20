@@ -3,7 +3,7 @@
 ## git - system kontroli wersji 
 ### clone
 ### add
-### commit
+### commit - wysyla finalne zmiany do repozytorium 
 ### push (--force)
 ### checkout (-b)
 ### pull
