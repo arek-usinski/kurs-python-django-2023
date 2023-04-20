@@ -7,21 +7,21 @@
 ### push (--force) - push przekazywanie zmian lokalnych na repozytorium do centralnego. force wypchniecie z wymuszeniem   
 ### checkout (-b) tworzy branch i podmienia jednoczesnie. Bez "b" tworzy nowy branch, ale pozwala zostac na na obecnym. 
 ### pull - pobiera zawartosc zdalnego repozytorium i aktualizuje z lokalnym 
-### branch
+### branch- galaz
 ### merge- łaczy gałęzie commotow w jedna jednolita 
 ### rebase
 ### reset
 ### clean
 ### diff
-### status
-## GitHub
-## markdown
-## edytor
+### status- wyswietla zmieny w katalogu loklnym 
+## GitHub ok
+## markdown ok
+## edytor ok
 ### vi, vim, emacs (do pracy z konsoli)
-### PyCharm, VSCode (do pracy z GUI)
-## komendy bashowe i ich flagi
-### cd
-### ls
+### PyCharm, VSCode (do pracy z GUI) ok
+## komendy bashowe i ich flagi ok
+### cd- otwiera katalog 
+### ls- otwiera liste z katalogami 
 ### pwd
 ### echo
 ### touch
