@@ -12,8 +12,8 @@
 ### rebase- przenosi zmiany z brancha do tymczasowej lokalizacji, dolacza zmiany z galezi z ktora chce sie polaczyc, umieszcza moje zmiany z innymi. (jest bardziej czytelny)
 ### reset- na prywatnym branchu odrzucenie commitow, niezatwierdzanie zmian
 ### clean
-### diff- porownanie commitow, galezi, plikow 
-### status- wyswietla zmieny w katalogu loklnym 
+### diff- porownanie commitow, galezi, plikow w poczekalni
+### status- wyswietla zmieny w katalogu lokalnym z rep
 ## GitHub ok
 ## markdown ok
 ## edytor ok
