@@ -20,25 +20,25 @@
 ### vi, vim, emacs (do pracy z konsoli)
 ### PyCharm, VSCode (do pracy z GUI) ok
 ## komendy bashowe i ich flagi ok
-### cd- otwiera katalog 
+### cd- otwiera katalog, lokalizaji
 ### ls- otwiera liste z katalogami 
 ### pwd
-### echo
+### echo 
 ### touch
-### mkdir
+### mkdir- utworzenie nowego katalogu
 ### grep
 ### man
 ### cp
-### mv
+### mv - zmiana nazwy pliku
 ### rmdir
 ### rm
-### cat
+### cat 
 ### less, more
 ### head, tail
 ### ps
 ### kill
 ### xargs (to trudne)
-### ssh
+### ssh- klucz 
 ### > (przekierowanie stdout np do pliku)
 ### /dev/null
 ### | (pipe, przekierowanie wyniku do kolejnego polecenia)
