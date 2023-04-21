@@ -8,11 +8,11 @@
 ### checkout (-b) tworzy branch i podmienia jednoczesnie. Bez "b" tworzy nowy branch, ale pozwala zostac na na obecnym. 
 ### pull - pobiera zawartosc zdalnego repozytorium i aktualizuje z lokalnym 
 ### branch- galaz
-### merge- łaczy gałęzie commotow w jedna jednolita 
-### rebase
-### reset
+### merge- łaczy gałęzie commotow w jedna jednolita, robi to naraz, umieszcza zmiany wedlug czasu ich utworzenia 
+### rebase- przenosi zmiany z brancha do tymczasowej lokalizacji, dolacza zmiany z galezi z ktora chce sie polaczyc, umieszcza moje zmiany z innymi. (jest bardziej czytelny)
+### reset- na prywatnym branchu odrzucenie commitow, niezatwierdzanie zmian
 ### clean
-### diff
+### diff- porownanie commitow, galezi, plikow 
 ### status- wyswietla zmieny w katalogu loklnym 
 ## GitHub ok
 ## markdown ok
