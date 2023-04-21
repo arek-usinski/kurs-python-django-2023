@@ -2,18 +2,18 @@
 # Prerequisites
 ## git - system kontroli wersji 
 ### clone
-### add
+### add- dodaje pojedyncze pliki do brancha
 ### commit - wysyla finalne zmiany do repozytorium 
 ### push (--force) - push przekazywanie zmian lokalnych na repozytorium do centralnego. force wypchniecie z wymuszeniem   
 ### checkout (-b) tworzy branch i podmienia jednoczesnie. Bez "b" tworzy nowy branch, ale pozwala zostac na na obecnym. 
 ### pull - pobiera zawartosc zdalnego repozytorium i aktualizuje z lokalnym 
-### branch- galaz
+### branch- galaz, git branch wyswietli liste branchy ktora mamy w lok repozytorium. pokaze na ktorym branchu akuralnie sie znajdujemy
 ### merge- łaczy gałęzie commotow w jedna jednolita, robi to naraz, umieszcza zmiany wedlug czasu ich utworzenia 
 ### rebase- przenosi zmiany z brancha do tymczasowej lokalizacji, dolacza zmiany z galezi z ktora chce sie polaczyc, umieszcza moje zmiany z innymi. (jest bardziej czytelny)
 ### reset- na prywatnym branchu odrzucenie commitow, niezatwierdzanie zmian
 ### clean
 ### diff- porownanie commitow, galezi, plikow w poczekalni
-### status- wyswietla zmieny w katalogu lokalnym z rep
+### status- wyswietla zmieny w katalogu lokalnym z rep. pokazuje stan naszego repozytorium od ostateniego commita. Ktore pliki dodalismy, zmienilismy itd
 ## GitHub ok
 ## markdown ok
 ## edytor ok
