@@ -18,30 +18,31 @@
 ## GitHub - Firma hostująca repozytoria Git dostarczająca do niego oprogramowanie
 ## markdown
 ## edytor
-### vi, vim, emacs (do pracy z konsoli)
-### PyCharm, VSCode (do pracy z GUI)
+### vi, vim(x), emacs (do pracy z konsoli)
+### PyCharm(x), VSCode (do pracy z GUI)
 ## komendy bashowe i ich flagi
-### cd
-### ls
-### pwd
-### echo
-### touch
-### mkdir
-### grep
+### cd - zmiana katalogu
+### ls - lista plików i katalogów
+### pwd - pokazuje katalog, w którym się aktualnie znajdujemy
+### echo - wypisywanie na ekran
+### touch - uaktualnianie daty pliku, bądź tworzenie pliku
+### mkdir - tworzenie katalogu
+### grep - wyszukuje wzorzec pliku
 ### man
-### cp
-### mv
-### rmdir
-### rm
-### cat
-### less, more
-### head, tail
-### ps
-### kill
-### xargs (to trudne)
-### ssh
-### > (przekierowanie stdout np do pliku)
-### /dev/null
-### | (pipe, przekierowanie wyniku do kolejnego polecenia)
-### chmod
-### exit
+### cp - kopiowanie plików lub katalogów
+### mv - przenoszenie lub zmiana nazwy pliku/katalogu
+### rmdir - usuwanie katalogu
+### rm - usuwanie pliku lub katalogu
+### cat - wyświetlanie zawartości pliku w terminalu
+### less, more - preglądanie zawartości pliku
+### head - wyświetla n linii na początku pliku
+### tail - wyświetla n linii na końcu pliku
+### ps - wyświetlanie procesów
+### kill - kończenie procesów
+### xargs - konstruuje listy parametrów i uruchamia komendy
+### ssh - protokuł komunikacji w sieci. Łączenie terminalowego z komputerami
+### > (przekierowanie stdout np do pliku) - przekierowanie pliku. SKierowanie tego co znajduje się po lewej stronie znaku do poleceń znajdujących się po jego prawej stronie
+### /dev/null - urządzenie zerowe. Celem jest odrzucenie wszystkiego, co do niego zostało wysłane i odczytanie End of File
+### | (pipe, przekierowanie wyniku do kolejnego polecenia) 
+### chmod - zmiana typów plików
+### exit - wychodzi z danego trybu
