@@ -28,7 +28,7 @@
 ### touch - uaktualnianie daty pliku, bądź tworzenie pliku
 ### mkdir - tworzenie katalogu
 ### grep - wyszukuje wzorzec pliku
-### man
+### man - wyświetla ręczne wpisy w trybie z połączeniem
 ### cp - kopiowanie plików lub katalogów
 ### mv - przenoszenie lub zmiana nazwy pliku/katalogu
 ### rmdir - usuwanie katalogu
