@@ -23,6 +23,8 @@
 * LaTeX
 * markdown
 * SQL
+### kompilowane
+### interpretowane
 # Python
 ## RELP (hello world)
 ```shell
