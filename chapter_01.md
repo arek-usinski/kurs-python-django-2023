@@ -15,8 +15,10 @@
 ### diff - pokazuje dokładnie, które linie zostały dodane, a które usunięte w formie łatki. Porównuje zawartość katalogu roboczego z tym, co znajduje się w poczekalni
 ### log - sprawdza wszystkie commity jakie zostały wprowadzone w danej gałęzi
 ### status - wyświetla stan katalogu roboczego i przechowywalni
+### stash - mechanizm, który umożliwia zapisanie zmiany w lokalnym repozytorium i jedniocześnie przywrócić stan working directory fo stanu określonego przez wskaźnik HEAD. Zapisane zmiany trafiają do schowka, skąd później będą mogły być odzyskane	
+### cherry-pick - pozwala selektywnie przenosić zatwierdzenia z jednej gałęzi do drugiej
 ## GitHub - Firma hostująca repozytoria Git dostarczająca do niego oprogramowanie
-## markdown
+## markdown - język prostych znaczników, stworzony w celu uproszczenia formatowania tekstu i przyśpieszenia pracy nad nim
 ## edytor
 ### vi, vim(x), emacs (do pracy z konsoli)
 ### PyCharm(x), VSCode (do pracy z GUI)
