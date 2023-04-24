@@ -69,3 +69,5 @@ Hello world
 ## Funkcje
 ### def
 ### dekoratory
+# Projekt
+Napisz program do wyznaczania tras turystycznych. Niech program zna nazwy lokalizacji i odległości między nimi. Niech program pyta użytkownika skąd chce wyruszyć i jak długą pętle (pętla to wycieczka kończąca się w punkcie startu) chce zrobić i niech wypisuje wszystkie możliwe pętle o długości mniejszej lub równej długości podanej przez użytkownika.
