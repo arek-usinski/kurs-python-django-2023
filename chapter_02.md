@@ -5,6 +5,7 @@
 * programowanie imperatywne
 * programowanie delkaratywne
 * programowanie funkcyjne
+* programowanie proceduralne
 * programowanie obiektowe
 ## Języki programowania
 * C/C++
