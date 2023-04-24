@@ -15,6 +15,8 @@
 * Rust
 * Go
 * MATLAB
+* Scala
+* Haskel
 * HTML
 * CSS
 * LaTeX
