@@ -5,7 +5,6 @@
 * programowanie imperatywne
 * programowanie delkaratywne
 * programowanie funkcyjne
-* programowanie proceduralne
 * programowanie obiektowe
 ## Języki programowania
 * C/C++
@@ -16,15 +15,11 @@
 * Rust
 * Go
 * MATLAB
-* Scala
-* Haskel
 * HTML
 * CSS
 * LaTeX
 * markdown
 * SQL
-### kompilowane
-### interpretowane
 # Python
 ## RELP (hello world)
 ```shell
@@ -69,3 +64,57 @@ Hello world
 ## Funkcje
 ### def
 ### dekoratory
+## Klasy
+### class
+### dziedziczenie
+### atrybuty na różnych poziomach (klasa, instancja)
+### metody
+#### @classmethod
+#### @property
+## Biblioteki (korzystamy z tego co zostało napisane przez innych)
+### biliotkea standardowa
+#### import
+#### itertools
+#### functools
+#### csv
+#### datetime
+#### os
+### 3rd party
+#### flask
+#### FastAPI
+#### numpy
+# Narzędzia programistyczne
+## makefile
+## git
+## .bashrc
+## docker, docker-compose
+## MailHog
+## localhost
+## ngrok
+## venv
+## pip i requirements.txt
+# Bazy danych
+## SQL
+### PostgreSQL
+#### SELECT
+#### FROM
+#### JOINs (LEFT, RIGHT, OUTER, INNER)
+#### WHERE
+#### Agregaty
+##### SUM
+##### AVG
+#### GROUP BY
+#### HAVING
+#### CREATE TABLE
+#### ALTER TABLE
+#### DROP TABLE
+#### TRUNCATE
+## NoSQL
+### MongoDB
+### influxDB
+# Django -- widoki renderowane przez backend
+# Django -- rest
+## Django Rest Framework
+# Django -- GraphQL
+## graphene
+## strawberry
