@@ -1,44 +1,44 @@
 [[_TOC_]]
 # Prerequisites
 ## git
-### clone - sklonowanie nowego repozytorium na komputer
-### add - dodanie zmienionych plików do indexu
-### commit - zebranie wszystkich add i stworzenie punktu przywrócenia
-### push (--force)  
-### checkout (-b) - stworzenie nowego brancha i przejscie do niego
-### pull - pobranie aktualnych plików z brancha na którym jesteśmy z repo 
-### branch - 
-### merge - 
+### clone
+### add
+### commit
+### push (--force)
+### checkout (-b)
+### pull
+### branch
+### merge
 ### rebase
 ### reset
 ### clean
-### diff - 
-### status -
+### diff
+### status
 ## GitHub
 ## markdown
 ## edytor
 ### vi, vim, emacs (do pracy z konsoli)
 ### PyCharm, VSCode (do pracy z GUI)
 ## komendy bashowe i ich flagi
-### cd - otworzenie katalogu lub lokalizacji
-### ls - wyświetlenie zawartości katalogu w którym obecnie się znajdujemy
+### cd
+### ls
 ### pwd
-### echo - wyświetlenie komunikatu
+### echo
 ### touch
-### mkdir - utworzenie nowego katalogu
+### mkdir
 ### grep
 ### man
 ### cp
-### mv - zamiana nazwy pliku lub katalogu
+### mv
 ### rmdir
-### rm - usuniecie pliku lub katalogu?
-### cat - wyświetlenie zawartosci pliku?
+### rm
+### cat
 ### less, more
 ### head, tail
 ### ps
 ### kill
 ### xargs (to trudne)
-### ssh 
+### ssh
 ### > (przekierowanie stdout np do pliku)
 ### /dev/null
 ### | (pipe, przekierowanie wyniku do kolejnego polecenia)
