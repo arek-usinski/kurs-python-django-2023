@@ -30,19 +30,24 @@
 ## RELP -proste, interaktywne środowisko programowania
 ## shell - program komputerowy pełniący rolę pośrednika, pomiędzy systemem operacyjnym lub aplikacjami, a użytkownikiem, przyjmując jego polecenia i "wprowadzając" wyniki działania programów
 ## Typy danych
-### int
-#### operatory matematyczne (+, -, /, //, *, %)
-### float
-### bool
-### string
+#### operatory matematyczne :
+* + - dodawanie
+* - - odejmowanie
+* / - dzielenie 
+* * - mnożenie
+* % - reszta z dzielenia
+### int - reprezentuje liczbę całkowitą
+### float - reprezentuje liczby zmiennoprzecinkowe
+### bool - watośc logiczna: true or false
+### string - reprezentuje tekstowy typ danych, przechowuje ciągi znaków
 ## Struktury danych
-### list
-### tuple
-### set
-### dict
+### list - tworzy listę
+### tuple - krotka, odzwierciedlenie matematycznej n-ki. Uporządkowany ciąg wartości, przechowują stale wartości o różnych typach danych, lecz nie można zmodyfikować żadnego elementu
+### set - Zbiór, sklada się z elementów. Elementy mogą być liczbami lub dowolnymi obiektami, które da się reprezentować za pomocą bitów w komputerze
+### dict - słownik, struktura danych reprezentująca dynamiczny zbiór elementów. 
 ### dostęp przez referrencje vs wartość
 ### generatory
-#### yield
+#### yield - pozwala na powrót do metody wywołującej, metoda wywołująca wykonuje swoje zadanie, a następnie powrót do kolekcji w miejscu, w którym ta kolekcja została opuszczona
 ## Instrukcje sterujące przepływem (słowa kluczowe)
 ### if
 #### not
