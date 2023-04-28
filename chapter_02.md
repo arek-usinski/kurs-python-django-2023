@@ -49,25 +49,26 @@
 ### generatory
 #### yield - pozwala na powrót do metody wywołującej, metoda wywołująca wykonuje swoje zadanie, a następnie powrót do kolekcji w miejscu, w którym ta kolekcja została opuszczona
 ## Instrukcje sterujące przepływem (słowa kluczowe)
-### if
-#### not
-#### and
-#### or
-### if-else
-### if-elif
-### if-elif-else
-### for
-#### in
-#### break
-#### continue
-### while
-### try-except
-### with
+### if - stawia warunek, jeśli jesy spęłniony wykonuje pierwszą listę instukcji, a jeśli nie to wykonuje się druga lista instrukcji
+#### not - neguje warunek, jeśli jakis warunek jest nie pełniony, wtedy wykonuje pierwszą listę instrukcji
+#### and - łączy ze sobą dwa warunki, oby dwa muszą być spełnione
+#### or - daje możliwośc dwóch warunków, tylko jeden z tych warunków musi być spęłniony
+### else - ostatnie warunek po IF
+### elif - kolejny warunek po samym IF
+### for - wykorzystuje się gdy z góry znamy ilość wykonywania kolejnych powtórzeń pętli
+#### in -  w np. danej zmiennej. Można sprawdzić czy konkretny obiekt znajduje się w tablicy lub innym obiekcie gromadzącym inne obiekty
+#### break - przerwa
+#### continue - kontynuuje
+### while - pętla zostaje wykonana przynajmniej raz, jeśli nie da jej się ograniczen wto wykonuje się w nieskończoność. Najpierw wykonuje instrukcje wewnątrz pętli, a potem sprawdzany jest dopiero warunek
+### try-except - sprawdza wyjątki
+### with - zastępuje try-except
 #### otwieranie i czytanie plików, csv
-### with-as
-## list/dict comprahensions
+### with-as - otwiera plik, jako
+## list - określa liste w []
+## dict - określa słownik w {} 
+## list comprehensions - pozwala na stworzenie listy wartości spełniających pewne warunki
 ## Funkcje
-### def
-### dekoratory
+### def - powala utworzyć blok funkcji, którą można użyc za każdym razem po przywołaniu jej nazwy
+### dekoratory - funkcje zwracające inne funkcje. Pozwala na modyfikację działanai dunkcji, bez ingerencji w samą funkcje
 # Projekt
 Napisz program do wyznaczania tras turystycznych. Niech program zna nazwy lokalizacji i odległości między nimi. Niech program pyta użytkownika skąd chce wyruszyć i jak długą pętle (pętla to wycieczka kończąca się w punkcie startu) chce zrobić i niech wypisuje wszystkie możliwe pętle o długości mniejszej lub równej długości podanej przez użytkownika.
