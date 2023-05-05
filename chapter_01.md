@@ -4,7 +4,9 @@
 ### clone
 Clones a repository into a newly created directory, creates remote-tracking branches for each branch in the cloned repository (visible using git branch --remotes), and creates and checks out an initial branch that is forked from the cloned repository’s currently active branch.
 ### add
+updates the index using the current content found in the working tree, to prepare the content staged for the next commit.
 ### commit
+Create a new commit containing the current contents of the index and the given log message describing the changes. 
 ### push (--force)
 ### checkout (-b)
 ### pull
