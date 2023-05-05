@@ -54,12 +54,25 @@ tworzenie nowego katalogu
 ### grep
 filtrowanie danych wg jakiegoś klucza
 ### man
+manual - podręcznik np. *man ls* wypisze podręcznik do polecenia ls
 ### cp
+copy - kopiuje pliki i katalogi<br>
+
+    $ cp [opcje] [-T] źródło cel
+
+    $ cp [opcje] źródło katalog
+
+    $ cp [opcje] -t katalog źródło 
 ### mv
+move - przenosi plik
 ### rmdir
+remove directory
 ### rm
+remove file
 ### cat
+wyświetlanie zawartości pliku
 ### less, more
+less – program konsoli Uniksa, wyświetlający duże ilości tekstu w sposób przystępny dla użytkownika (tzw. pager). W odróżnieniu od more zezwala na nawigację po pliku w obu kierunkach w dowolnym momencie. W przeciwieństwie do vi, który także może być używany do wyświetlania plików, less nie wczytuje całego pliku przy starcie, dzięki czemu szybciej wczytuje duże pliki. 
 ### head, tail
 ### ps
 ### kill
