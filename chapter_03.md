@@ -31,6 +31,7 @@ Hello world
 ```
 ## Typy danych
 ### int
+    Hello world
 #### operatory matematyczne (+, -, /, //, *, %)
 ### float
 ### bool
