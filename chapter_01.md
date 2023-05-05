@@ -6,7 +6,8 @@ Clones a repository into a newly created directory, creates remote-tracking bran
 ### add
 updates the index using the current content found in the working tree, to prepare the content staged for the next commit.
 ### commit
-Create a new commit containing the current contents of the index and the given log message describing the changes. 
+Create a new commit containing the current contents of the index and the given log message describing the changes. <br>
+Commit z flagą -m dodaje wiadomość np. git commit -m "feat: create new line of code"
 ### push (--force)
 ### checkout (-b)
 ### pull
