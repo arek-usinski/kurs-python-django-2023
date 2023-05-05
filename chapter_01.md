@@ -75,7 +75,9 @@ wyświetlanie zawartości pliku
 less – program konsoli Uniksa, wyświetlający duże ilości tekstu w sposób przystępny dla użytkownika (tzw. pager). W odróżnieniu od more zezwala na nawigację po pliku w obu kierunkach w dowolnym momencie. W przeciwieństwie do vi, który także może być używany do wyświetlania plików, less nie wczytuje całego pliku przy starcie, dzięki czemu szybciej wczytuje duże pliki. 
 ### head, tail
 ### ps
+wyświetla listę procesów
 ### kill
+ubija proces, polecenie kill potrzebuje chyba numeru procesu, w przeciwieństwie do sigkill???
 ### xargs (to trudne)
 ### ssh
 ### > (przekierowanie stdout np do pliku)
