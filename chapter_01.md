@@ -48,7 +48,7 @@ aktualne working directory
 ### echo
 Wyświetlanie tekstu ze standardowego wejścia (klawiatura).
 ### touch
-aktualizacja/modyfikacja daty ostatniego zapisu pliku 
+aktualizacja/modyfikacja daty ostatniego zapisu pliku lub tworzy nowy plik 
 ### mkdir
 tworzenie nowego katalogu
 ### grep
@@ -80,7 +80,11 @@ wyświetla listę procesów
 ubija proces, polecenie kill potrzebuje chyba numeru procesu, w przeciwieństwie do sigkill???
 ### xargs (to trudne)
 ### ssh
+secure shell - bezpieczny sposób połączenia z użyciem kluczy prywatnego oraz publicznego
 ### > (przekierowanie stdout np do pliku)
+echo "some text here" > /path/to/file<br>nadpisuje cały plik, jeśli istnieje<br><br>
+echo "Some text to be appended" >> /path/to/file<br>
+dodaje output na koniec tekstu, jeśli plik istnieje
 ### /dev/null
 ### | (pipe, przekierowanie wyniku do kolejnego polecenia)
 ### chmod
