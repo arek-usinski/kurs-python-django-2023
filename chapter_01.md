@@ -86,6 +86,11 @@ echo "some text here" > /path/to/file<br>nadpisuje cały plik, jeśli istnieje<b
 echo "Some text to be appended" >> /path/to/file<br>
 dodaje output na koniec tekstu, jeśli plik istnieje
 ### /dev/null
+czarna dziura<br><br>
+wirtualne urządzenie w uniksopodobnych systemach operacyjnych, usuwające wszystkie dane przekierowane do niego i nie generujące żadnych danych dla procesów czytających z niego.
+
+/dev/null jest często używany do usuwania niepożądanych danych pochodzących z procesów komputerowych lub jako źródło pustych danych wejściowych. Zazwyczaj jest wykorzystywane przez przekierowanie. 
 ### | (pipe, przekierowanie wyniku do kolejnego polecenia)
 ### chmod
+zmiana zezwoleń dostępu do plików
 ### exit
