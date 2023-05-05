@@ -40,9 +40,11 @@ pokazuje pliki w lokalnym repo (śledzone, nieśledzone, czy coś jest do zacomm
 ### PyCharm, VSCode (do pracy z GUI)
 ## komendy bashowe i ich flagi
 ### cd
+zmiana directory np. cd home/
 ### ls
+wypisuje wszystkie pliki w danej lokalizacji, z flagą -a listuje również te ukryte.
 ### pwd
-
+aktualne working directory
 ### echo
 ### touch
 ### mkdir
