@@ -19,11 +19,18 @@ uaktualnia repo np. *git pull origin dev*, gdzie dev to nazwa brancha
 informacja, na którym branchu aktualnie jesteśmy, możemy wylistowac branche z flagą --list (chyba)
 ### merge
 Incorporates changes from the named commits (since the time their histories diverged from the current branch) into the current branch. This command is used by git pull to incorporate changes from another repository and can be used by hand to merge changes from one branch into another.<br><br>
-Jeśli chcemy domergować zmiany np. z deva do naszego brancha to będąc na naszym branchu wpisujemy komendę *git branch dev*
+Jeśli chcemy domergować zmiany np. z deva do naszego brancha to będąc na naszym branchu wpisujemy komendę *git branch dev*<br>
+https://www.atlassian.com/git/tutorials/using-branches/git-merge
 ### rebase
+tworzy liniową strukturę commitów, brak historii<br>
+https://www.atlassian.com/git/tutorials/rewriting-history/git-rebase
+
 ### reset
+git-reset - Reset current HEAD to the specified state
 ### clean
+Cleans the working tree by recursively removing files that are not under version control, starting from the current directory.
 ### diff
+Show changes between commits, commit and working tree, etc
 ### status
 pokazuje pliki w lokalnym repo (śledzone, nieśledzone, czy coś jest do zacommitowania)
 ## GitHub
