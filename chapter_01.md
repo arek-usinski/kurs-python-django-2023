@@ -14,7 +14,9 @@ Wypycha zmiany z lokalnego repozytorium do zdalnego (remote).<br>
 ### checkout (-b)
 przełączanie na inny branch lub tworzenie nowego brancha. Z flagą -b tworzy i od razu przełącza na tworzonego brancha.
 ### pull
+uaktualnia repo np. *git pull origin dev*, gdzie dev to nazwa brancha
 ### branch
+informacja, na którym branchu aktualnie jesteśmy, możemy wylistowac branche z flagą --list (chyba)
 ### merge
 ### rebase
 ### reset
