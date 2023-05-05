@@ -46,9 +46,13 @@ wypisuje wszystkie pliki w danej lokalizacji, z flagą -a listuje również te u
 ### pwd
 aktualne working directory
 ### echo
+Wyświetlanie tekstu ze standardowego wejścia (klawiatura).
 ### touch
+aktualizacja/modyfikacja daty ostatniego zapisu pliku 
 ### mkdir
+tworzenie nowego katalogu
 ### grep
+filtrowanie danych wg jakiegoś klucza
 ### man
 ### cp
 ### mv
