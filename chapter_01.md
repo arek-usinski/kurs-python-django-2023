@@ -12,6 +12,7 @@ Commit z flagą -m dodaje wiadomość np. *git commit -m "feat: create new line 
 Wypycha zmiany z lokalnego repozytorium do zdalnego (remote).<br>
 *git push origin main*
 ### checkout (-b)
+przełączanie na inny branch lub tworzenie nowego brancha. Z flagą -b tworzy i od razu przełącza na tworzonego brancha.
 ### pull
 ### branch
 ### merge
