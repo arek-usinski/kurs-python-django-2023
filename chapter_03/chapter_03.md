@@ -30,12 +30,12 @@ Type "help", "copyright", "credits" or "license" for more information.
 Hello world
 ```
 ## Typy danych
-### int
+### Integer, int
     Hello world
     Liczby całkowite 
 
 In Python, integers are zero, positive or negative whole numbers without a fractional part and having unlimited precision, e.g. 0, 100, -10. The followings are valid integer literals in Python.
-
+```shell
     #integer variables
     x = 0
     print(x)
@@ -51,8 +51,10 @@ In Python, integers are zero, positive or negative whole numbers without a fract
     
     x = 5000000000000000000000000000000000000000000000000000000
     print(x)
+```
 
 Integers can be binary, octal, and hexadecimal values.
+```shell
 
     b = 0b11011000 # binary
     print(b)
@@ -62,9 +64,10 @@ Integers can be binary, octal, and hexadecimal values.
     
     h = 0x12 # hexadecimal
     print(h)
+```
 
 All integer literals or variables are objects of the int class. Use the type() method to get the class name, as shown below
-
+```shell
     print(type(100))
     
     x=1234567890
@@ -72,25 +75,31 @@ All integer literals or variables are objects of the int class. Use the type() m
     
     y=5000000000000000000000000000000000000000000000000000000
     print(type(y))
+```
 
 Note: Leading zeros in non-zero integers are not allowed in Python, e.g. 000123 is invalid number and 0000 becomes 0.
-
+```shell
     x=001234567890 #syntaxError: invalid token
+```
 Python does not allow comma as number delimiter. Use underscore _ as a delimiter instead.
 
+```shell
     x = 1_234_567_890
     print(x) #output: 1234567890
+```
 
 Note that integers must be without a fractional part (decimal point). It it includes a fractional then it becomes a float.
+```shell
 
     x=5
     print(type(x)) #output: <class 'int'>
     
     x=5.0
     print(type(x)) #output: <class 'float'>
+```
 
 The int() function converts a string or float to int.
-
+```shell
     x = int('100')
     print(x) #output: 100
     
@@ -102,44 +111,46 @@ The int() function converts a string or float to int.
     
     n = int('100', 2)
     print(n) #output: 4
-
+```
 
 #### operatory matematyczne (+, -, /, //, *, %)
-![img.png](img.png)
+![img.png](../img.png)
 ### Binary
 
 A number having 0b with eight digits in the combination of 0 and 1 represent the binary numbers in Python. For example, 0b11011000 is a binary number equivalent to integer 216.
-
+```shell
     x = 0b11011000
     print(x)
     
     x = 0b_1101_1000
     print(x)
     print(type(x))
+```
 
 ### Octal
 
 A number having 0o or 0O as prefix represents an octal number. For example, 0O12 is equivalent to integer 10.
-
+```shell
     x = 0o12
     
     print(x)
     print(type(x))
+```
 
 ### Hexadecimal
 
 A number with 0x or 0X as prefix represents hexadecimal number. For example, 0x12 is equivalent to integer 18.
-
+```shell
     x = 0x12
     
     print(x)
     print(type(x))
+```
 
-
-### float
+### Float
 
 Floating point numbers (float) are positive and negative real numbers with a fractional part denoted by the decimal symbol . or the scientific notation E or e, e.g. 1234.56, 3.142, -1.55, 0.23.
-
+```shell
     f = 1.2
     print(f) #output: 1.2
     print(type(f)) #output: <class 'float'>
@@ -149,11 +160,12 @@ Floating point numbers (float) are positive and negative real numbers with a fra
     
     f=2e400
     print(f) #output: inf
+```
 
 As you can see, a floating point number can be separated by the underscore _. The maximum size of a float is depend on your system. The float beyond its maximum size referred as inf, Inf, INFINITY, or infinity. For example, a float number 2e400 will be considered as infinity for most systems.
 
 Scientific notation is used as a short representation to express floats having many digits. For example: 345.56789 is represented as 3.4556789e2 or 3.4556789E2
-
+```shell
     f = 1e3
     print(f) #output: 1000.0
     
@@ -163,9 +175,11 @@ Scientific notation is used as a short representation to express floats having m
     f = 3.4556789e2
     print(f) #output:
     print(type(f)) #output:345.56789
+```
 
 Use the float() function to convert string, int to float.
 
+```shell
     f=float('5.5')
     print(f) #output: 5.5
     
@@ -184,18 +198,23 @@ Use the float() function to convert string, int to float.
     f=float('inf')
     print(f)  #output: inf
     print(type(f)) #output:<class 'float'>
+```
 
 ### Complex Numbers
 
 A complex number is a number with real and imaginary components. For example, 5 + 6j is a complex number where 5 is the real component and 6 multiplied by j is an imaginary component.
-
+```shell
     a = 5+2j
     print(a)
     print(type(a))
+```
+### Bool
+Data with one of two built-in values True or False. Notice that 'T' and 'F' are capital. true and false are not valid booleans and Python will throw an error for them.
 
-
-### bool
+### None
+The None represents the null object in Python. A None is returned by functions that don't explicitly return a value
 ### string
+
 ## Struktury danych
 ### list
 ### tuple
